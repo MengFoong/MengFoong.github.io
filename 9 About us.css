@@ -1,0 +1,25 @@
+#pic img{
+    box-shadow: 5px 5px 10px;
+    border-radius: 12px;
+} 
+#pic{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+
+}
+
+main{
+    text-align: center;
+}
+
+span{
+    font-weight: 800;
+    color: #CE0C1A;
+}
+
+#story p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}

@@ -1,0 +1,73 @@
+main {
+    text-align: center;
+}
+
+main h3 {
+    border: #CE0C1A solid 1px;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+table img {
+    width: 80px;
+    height: 80px;
+}
+
+.tablelayout {
+    table-layout: fixed;
+    text-align: center;
+    padding: 10%;
+    margin: 5%;
+}
+
+.Payment-table {
+
+    background-color: whitesmoke
+}
+
+h2 {
+    background-color: #CE0C1A;
+    border-radius: 5px;
+    color: whitesmoke;
+    padding: 2%;
+}
+
+main div {
+    border: solid #CE0C1A;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+label {
+    text-align: right;
+    padding: 1%;
+}
+
+input {
+    border-radius: 20px;
+    border-color: #CE0C1A;
+    width: 50%;
+}
+
+main button {
+    color: whitesmoke;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #f10c1b;
+}
+
+button:hover {
+    background-color: #CE0C1A;
+    transform: scale(1.01);
+    transition: all 0.25s ease-out;
+}
+
+
+#Note {
+    height: 100px;
+    border-radius: 20px;
+    border-color: #CE0C1A;
+    width: 50%;
+}

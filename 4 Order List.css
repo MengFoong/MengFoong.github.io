@@ -1,0 +1,163 @@
+
+body {
+    background-color: #d6ebe1;
+    padding-left: 0.01%;
+    padding-right: 0.01%;
+    position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d6ebe1;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+p{
+    color: #CE0C1A;
+}
+
+h2 {
+    background-color: #CE0C1A;
+    border-radius: 3px;
+    color: bisque;
+    padding: 2%;
+}
+
+.hr{
+    width: 85%;
+    size: 2px;
+    background-color: black;
+}
+
+.content1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border: 2px dotted #CE0C1A;
+    padding: 3%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.content2 {
+    margin: 1%;
+    width: 30%;
+    border: 2px dotted #CE0C1A;
+    text-align: center;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    display: inline-block;
+    padding: 1%;
+}
+
+.content2:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius: 25px;
+    transform: scale(1.01);
+    transition: all 0.5s ease-out;
+}
+
+.item-picture {
+    width: 100%;
+}
+
+.item-description {
+    width: 100%;
+    margin: 0%;
+}
+
+.description{
+    padding: 1%;
+}
+
+.food-picture {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.item-name {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+ul {
+    list-style: none;
+    font-size: 15px;
+    color: rgb(102, 102, 102);
+}
+
+.h3title{
+    text-align: center;
+    background-color: #CE0C1A;
+    border-radius: 10px;
+    color: bisque;
+    padding: 2%;
+}
+
+
+.minus {
+    background-image: url(https://cdn.kfc.com.my/images/general/inc-minus.png);
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 50px;
+}
+
+.add {
+    background-image: url(https://cdn.kfc.com.my/images/general/inc-plus.png);
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 50px;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    width:100%;
+    padding: 3%;
+    background-color: #CE0C1A;
+    border-radius: 5px;
+    border-style: none;
+    color: bisque;
+    text-decoration: none;
+    
+
+}
+
+table{
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.checkout-button a{
+    text-decoration: none;
+}
+
+.checkout-button:hover {
+    transform: scale(1.005);
+}
+
+.checkout-container {
+    margin-top: 10%;
+    margin-left: 3%;
+}
+
+.checkout-detail {
+    display: inline-block;
+    width: 20%;
+}
+
+.price {
+    width: 50%;
+}
+
