@@ -2,13 +2,13 @@ h3{
     color: #CE0C1A;
 }
 
-main button{
+#No-thanks a{
     color: black;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     border-radius: 5px;
-    background-color: whitesmoke;
+    background-color: beige;
 }
   
 .card:hover {
@@ -24,7 +24,7 @@ main button{
     max-width: 100%;
   }
   
-  .container {
+.container {
     padding: 5px 30px;
   }
 

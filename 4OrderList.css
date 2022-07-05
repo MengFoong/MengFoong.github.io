@@ -3,7 +3,6 @@ body {
     background-color: #d6ebe1;
     padding-left: 0.01%;
     padding-right: 0.01%;
-    position: center;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #d6ebe1;
     margin-left: auto;
@@ -24,7 +23,6 @@ h2 {
 
 .hr{
     width: 85%;
-    size: 2px;
     background-color: black;
 }
 
@@ -118,11 +116,12 @@ ul {
     border-radius: 50px;
 }
 
-button {
+#checkout-button{
     display: block;
     margin: 10px auto;
     width:100%;
     padding: 3%;
+    text-align: center;
     background-color: #CE0C1A;
     border-radius: 5px;
     border-style: none;
